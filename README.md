@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;200%2B+LeetCode+Problems;SIH+Finalist+2024+%26+2025;Always+Learning+Something+New+%F0%9F%9A%80"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
@@ -13,13 +11,11 @@
 ## 👩‍💻 About Me
 
 🎓 **B.E. Computer Science & Engineering**  
-📍 Bangalore Institute of Technology, Bengaluru
+  📍 Bangalore Institute of Technology, Bengaluru
 
-🥇 Rank **1** (First Year)
-
-🥈 Rank **2** (Second Year & Third Year)
-
-⭐ CGPA **9.6 / 10**
+  🥇 Rank **1** (First Year)
+  🥈 Rank **2** (Second Year & Third Year)
+  ⭐ CGPA **9.6 / 10**
 
 💻 Passionate about
 
