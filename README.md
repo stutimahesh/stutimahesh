@@ -10,70 +10,26 @@
 
 ## 👩‍💻 About Me
 
-<table>
-<tr>
+🎓 **B.E. Computer Science & Engineering**  
+📍 Bangalore Institute of Technology, Bengaluru
 
-<td width="45%" valign="top">
+  🥇 Rank **1** (First Year)
+  🥈 Rank **2** (Second Year & Third Year)
+  ⭐ CGPA **9.6 / 10**
+  
+💻 Passionate about
 
-### 🎓 Education
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Data Science
 
-**Bachelor of Engineering (Computer Science & Engineering)**
+🚀 Currently
 
-🏫 Bangalore Institute of Technology, Bengaluru
-
-⭐ **CGPA:** **9.6 / 10**
-
-🥇 **Rank 1** – First Year
-
-🥈 **Rank 2** – Second Year
-
-🥈 **Rank 2** – Third Year
-
-</td>
-
-<td width="55%" valign="top">
-
-💻 Passionate Computer Science student who enjoys building scalable applications, exploring Artificial Intelligence, and solving challenging problems.
-
-🚀 Always learning new technologies and creating projects that combine software engineering with AI.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 💻 Passionate About
-
-- 🌐 Full Stack Development
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ⚙️ Backend Development
-- 📊 Data Science
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Currently
-
-- 💻 Building Full Stack Projects
-- 🤖 Exploring AI Applications
-- 🧩 Solving DSA Problems
-- 📚 Learning New Technologies
-
-</td>
-
-</tr>
-</table>
-
----
+- Building Full Stack Projects
+- Exploring AI Applications
+- Solving DSA Problems
 
 ---
 
