@@ -15,7 +15,7 @@
 
   🥇 Rank **1** (First Year)
   🥈 Rank **2** (Second Year & Third Year)
-  ⭐ CGPA **9.6 / 10**
+  ⭐ CGPA **9.5 / 10**
   
 💻 Passionate about
 
@@ -269,7 +269,7 @@
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/CGPA-9.6-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-9.5-success?style=for-the-badge"/>
 
 <br><br>
 
