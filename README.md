@@ -2,7 +2,7 @@
 
 # Hi, I'm Stuti Mahesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;200%2B+LeetCode+Problems;SIH+Finalist+2024+%26+2025;Always+Learning+Something+New+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;250%2B+LeetCode+Problems;SIH+Finalist+2024+%26+2025;Always+Learning+Something+New+%F0%9F%9A%80"/>
 
 </div>
 
