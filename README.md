@@ -257,7 +257,7 @@
 
 **Bangalore Institute of Technology, Bengaluru**
 
-📈 **CGPA:** **9.6 / 10**
+📈 **CGPA:** **9.5 / 10**
 
 🥇 **Rank 1** – First Year
 
