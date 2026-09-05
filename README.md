@@ -229,10 +229,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stutimahesh&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stutimahesh&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Stuti%20Mahesh%27s%20Contribution%20Graph" width="95%"/>
 
 </div>
-
 
 ---
 
